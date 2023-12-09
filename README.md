@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif)](https://dapraws.io)
 <h1 align="center">Hi 👋, I'm Muhammad Darrel Prawira</h1>
-<h3 align="center">Informatics Student at Telkom University | Interested with Web/Mobile Development, Data Analyst, UI/UX Design, Project Management</h3>
+<h3 align="center">Informatics Student at Telkom University | Interested with Web/Mobile Development, Data Science, UI/UX Design, Project Management</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/hpvpbfax/production/e261b661e656a59eabf809608249dca5ab7bca9f-480x600.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dapraws&label=Profile%20views&color=0e75b6&style=flat" alt="dapraws" /> </p>
