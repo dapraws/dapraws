@@ -3,9 +3,12 @@
 <h3 align="center">Informatics Student at Telkom University | Interested with Web/Mobile Development, Data Science, UI/UX Design, Project Management</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/hpvpbfax/production/e261b661e656a59eabf809608249dca5ab7bca9f-480x600.gif">
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dapraws&label=Profile%20views&color=0e75b6&style=flat" alt="dapraws" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dapraws" target="blank"><img src="https://img.shields.io/twitter/follow/dapraws?logo=twitter&style=for-the-badge" alt="dapraws" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=500&color=00C804&center=true&vCenter=true&multiline=true&random=false&width=435&height=75&lines=Welcome+to+my+profile;Let's+code+together!" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on **RIZUMU | Web Music Player**
 
