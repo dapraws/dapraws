@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/dapraws" target="blank"><img src="https://img.shields.io/twitter/follow/dapraws?logo=twitter&style=for-the-badge" alt="dapraws" /></a> </p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=500&color=00C804&center=true&vCenter=true&multiline=true&random=false&width=435&height=75&lines=Welcome+to+my+profile;Let's+code+together!" alt="Typing SVG" />
 
-- 🔭 I’m currently working on **RIZUMU | Web Music Player**
+- 🔭 I’m currently working on **Naara**
 
 - 🌱 I’m currently learning **Flutter**
 
