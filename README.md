@@ -114,18 +114,6 @@
           height="40"
         />
       </a>
-      <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          alt="javascript"
-          width="40"
-          height="40"
-        />
-      </a>
       <a href="https://www.php.net/" target="_blank" rel="noreferrer">
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"
@@ -198,7 +186,7 @@
           height="40"
         />
       </a>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
         <img
           src="https://cdn.worldvectorlogo.com/logos/html-1.svg"
           alt="html5"
@@ -210,6 +198,18 @@
         <img
           src="https://cdn.worldvectorlogo.com/logos/css-3.svg"
           alt="css3"
+          width="auto"
+          height="40"
+        />
+      </a>
+      <a
+        href="https://www.w3schools.com/js/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img
+          src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"
+          alt="javascript"
           width="auto"
           height="40"
         />
