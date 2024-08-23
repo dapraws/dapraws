@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/dapraws)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/dapraws?tab=repositories)
 
 - 📫 How to reach me **darrelprawira26@gmail.com**
 
