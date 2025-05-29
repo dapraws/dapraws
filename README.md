@@ -9,9 +9,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=500&color=00C804&center=true&vCenter=true&multiline=true&random=false&width=435&height=75&lines=Welcome+to+my+profile;Let's+code+together!" alt="Typing SVG" />
 
-- 🔭 I’m currently working on [Maenbal](https://github.com/farhanmalif/ABP-Mobile)
+- 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning ...
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/dapraws?tab=repositories)
 
