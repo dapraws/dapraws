@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning **iOS Development (Swift)**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/dapraws?tab=repositories)
 
